@@ -4,6 +4,7 @@
   "description": "CSS Only (No SVG) Spinning Decision Wheel  + React for the logic",
   "keywords": ["game", "react", "spinning wheel", "css", "animation"],
   "main": "src/index.js",
+  "license": "UNLICENSED",
   "dependencies": {
     "react": "16.5.2",
     "react-dom": "16.5.2",
