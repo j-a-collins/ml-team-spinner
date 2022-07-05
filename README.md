@@ -1,2 +1,2 @@
 # ml-team-spinner
-Created with CodeSandbox
+A first attempt at deploying a spinner to Vercel, with react
