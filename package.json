@@ -5,6 +5,7 @@
   "keywords": ["game", "react", "spinning wheel", "css", "animation"],
   "main": "src/index.js",
   "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "react": "16.5.2",
     "react-dom": "16.5.2",
