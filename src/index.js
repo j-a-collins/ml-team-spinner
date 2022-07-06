@@ -8,7 +8,7 @@ import "./styles.css";
 export class App extends React.Component {
   constructor() {
     super();
-    this.places = ["Jack C", "Jack F", "Aaron", "Dan", "Matt", "Martin", "Ben"];
+    this.places = ["Jack C", "Jack F", "Aaron", "Dan", "Matt", "Martin", "Ben", "Sam", "Steve"];
   }
 
   render() {
